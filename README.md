@@ -1,20 +1,17 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> 8085 Microprocessor Lab
+<b> Experiment|     <b> 1. Write and execute the assembly language program for Addition of two 8 bit numbers given in registers and store the result in another register
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+To be able to write the assembly language programs of 8085 microprocessor for various applications and observe it's execution through simulation.
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+Two 8 bit numbers are given in two registers eg Accumulator (A) and B register. Write the instructions to move the data in these registers, clear the Carry flag and add the contents of these two registers without carry, store the 8 bit result in another register C. Check the contents of C register for result
 
 <h5> Target Audience : </h5>
 
@@ -26,31 +23,30 @@ Type here: courses aligned
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+Type here: AKTU, Lucknow
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Shahanaz Ayub
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> Bundelkhand Institute of Engineering of Technology
+<b> Email id|     <b> sayub@bietjhs.ac.in
+<b> Department | Electronics and Communication Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Anurag Chauhan 
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> Rajkiya Engineering College, Banda
+<b> Email id|     <b> anurag@recbanda.ac.in
+<b> Department | Electrical Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Shahanaz Ayub | Faculty | Electronics and Communication Engineering | Bundelkhand Institute of Engineering and Technology, Jhansi | sayub@bietjhs.ac.in
+2 | Sooraj Shukla | Student | Computer Science and Engineering | Bundelkhand Institute of Engineering and Technology, Jhansi | soorajshukla974@gmail.com
+3 | Dileep Patel | Student | Computer Science and Engineering | Bundelkhand Institute of Engineering and Technology, Jhansi | Dileepp982@gmail.com
+4 | Tejaswini Pandey | Student | Computer Science and Engineering | Bundelkhand Institute of Engineering and Technology, Jhansi | tejaswinipandeyy@gmail.com
+5 | Shivam Maheswari | Student | Electronics and Communication Engineering | Bundelkhand Institute of Engineering and Technology, Jhansi | shivammaheswari503@gmail.com
 
 
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
