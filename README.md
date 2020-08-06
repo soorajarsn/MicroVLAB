@@ -15,15 +15,15 @@ Two 8 bit numbers are given in two registers eg Accumulator (A) and B register. 
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+B.Tech students of ECE, EE, IC, CS, IT and faculty members
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+KEC502 Microprocessor and Microcontroller course of AKTU LUCKNOW B.TECH ECE 5th SEMESTER
 
 <h5> Universities Mapped : </h5>
 
-Type here: AKTU, Lucknow
+ Dr. A.P.J. Abdul Kalam Technical University, Lucknow
 
 <b>Name of Developer | <b> Shahanaz Ayub
 :--|:--|
